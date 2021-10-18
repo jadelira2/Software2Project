@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Imagefiles/afc.jpeg</file>
+    <file>Imagefiles/blackbutton.png</file>
+    <file>Imagefiles/download.jpeg</file>
+    <file>Imagefiles/orangebutton.png</file>
+    <file>Imagefiles/uteplogo.jpeg</file>
+  </qresource>
+</RCC>
